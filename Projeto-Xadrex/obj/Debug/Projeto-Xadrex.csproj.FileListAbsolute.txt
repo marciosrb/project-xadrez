@@ -1,0 +1,14 @@
+C:\Users\felip_000\OneDrive\Cursos\C#\C#COMPLETO\Exercicios\Projeto-Xadrex\Projeto-Xadrex\obj\Debug\Projeto-Xadrex.csprojAssemblyReference.cache
+C:\Users\felip_000\OneDrive\Cursos\C#\C#COMPLETO\Exercicios\Projeto-Xadrex\Projeto-Xadrex\obj\Debug\Projeto-Xadrex.csproj.CoreCompileInputs.cache
+C:\Users\felip_000\OneDrive\Cursos\C#\C#COMPLETO\Exercicios\Projeto-Xadrex\Projeto-Xadrex\bin\Debug\Projeto-Xadrex.exe.config
+C:\Users\felip_000\OneDrive\Cursos\C#\C#COMPLETO\Exercicios\Projeto-Xadrex\Projeto-Xadrex\bin\Debug\Projeto-Xadrex.exe
+C:\Users\felip_000\OneDrive\Cursos\C#\C#COMPLETO\Exercicios\Projeto-Xadrex\Projeto-Xadrex\bin\Debug\Projeto-Xadrex.pdb
+C:\Users\felip_000\OneDrive\Cursos\C#\C#COMPLETO\Exercicios\Projeto-Xadrex\Projeto-Xadrex\obj\Debug\Projeto-Xadrex.exe
+C:\Users\felip_000\OneDrive\Cursos\C#\C#COMPLETO\Exercicios\Projeto-Xadrex\Projeto-Xadrex\obj\Debug\Projeto-Xadrex.pdb
+C:\Users\Márcio\Downloads\Projeto-Xadrez-master\Projeto-Xadrez-master\Projeto-Xadrex\bin\Debug\Projeto-Xadrex.exe.config
+C:\Users\Márcio\Downloads\Projeto-Xadrez-master\Projeto-Xadrez-master\Projeto-Xadrex\bin\Debug\Projeto-Xadrex.exe
+C:\Users\Márcio\Downloads\Projeto-Xadrez-master\Projeto-Xadrez-master\Projeto-Xadrex\bin\Debug\Projeto-Xadrex.pdb
+C:\Users\Márcio\Downloads\Projeto-Xadrez-master\Projeto-Xadrez-master\Projeto-Xadrex\obj\Debug\Projeto-Xadrex.csprojAssemblyReference.cache
+C:\Users\Márcio\Downloads\Projeto-Xadrez-master\Projeto-Xadrez-master\Projeto-Xadrex\obj\Debug\Projeto-Xadrex.csproj.CoreCompileInputs.cache
+C:\Users\Márcio\Downloads\Projeto-Xadrez-master\Projeto-Xadrez-master\Projeto-Xadrex\obj\Debug\Projeto-Xadrex.exe
+C:\Users\Márcio\Downloads\Projeto-Xadrez-master\Projeto-Xadrez-master\Projeto-Xadrex\obj\Debug\Projeto-Xadrex.pdb
